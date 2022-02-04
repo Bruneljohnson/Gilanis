@@ -16,3 +16,8 @@ To take this app further I will do the following:
 - create a backend inventory for the meal items.
 - email response system.
 - create a persisting Cart.
+
+ISSUES TO WORK ON:
+
+- when using gitHub pages persistent Auth works but refreshing/ reloading leads to github pages 404 page. if refreshed from URL it works fine.
+- when using safari there are a few glitches with the anchor tags.
