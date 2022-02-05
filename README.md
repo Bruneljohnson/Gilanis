@@ -20,4 +20,4 @@ To take this app further I will do the following:
 ISSUES TO WORK ON:
 
 - when using gitHub pages persistent Auth works but refreshing/ reloading leads to github pages 404 page. if refreshed from URL it works fine.
-- when using safari there are a few glitches with the anchor tags.
+- when using safari there are a few glitches with the anchor tags. (This has been fixed using HashLink from React-Router)
