@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gilanis/static/css/main.07ce280e.css",
-    "main.js": "/gilanis/static/js/main.b72f8278.js",
+    "main.js": "/gilanis/static/js/main.1a57fd7a.js",
     "static/css/732.7eea6fe0.chunk.css": "/gilanis/static/css/732.7eea6fe0.chunk.css",
     "static/js/732.30548e44.chunk.js": "/gilanis/static/js/732.30548e44.chunk.js",
     "static/css/17.0554ec58.chunk.css": "/gilanis/static/css/17.0554ec58.chunk.css",
     "static/js/17.e104bc59.chunk.js": "/gilanis/static/js/17.e104bc59.chunk.js",
     "static/css/216.9f79535e.chunk.css": "/gilanis/static/css/216.9f79535e.chunk.css",
-    "static/js/216.90414ce8.chunk.js": "/gilanis/static/js/216.90414ce8.chunk.js",
+    "static/js/216.ba2afeea.chunk.js": "/gilanis/static/js/216.ba2afeea.chunk.js",
     "static/css/789.e2beae76.chunk.css": "/gilanis/static/css/789.e2beae76.chunk.css",
     "static/js/789.56965b84.chunk.js": "/gilanis/static/js/789.56965b84.chunk.js",
     "static/css/787.dc325998.chunk.css": "/gilanis/static/css/787.dc325998.chunk.css",
@@ -57,13 +57,13 @@
     "index.html": "/gilanis/index.html",
     "static/media/spoon.svg": "/gilanis/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
     "main.07ce280e.css.map": "/gilanis/static/css/main.07ce280e.css.map",
-    "main.b72f8278.js.map": "/gilanis/static/js/main.b72f8278.js.map",
+    "main.1a57fd7a.js.map": "/gilanis/static/js/main.1a57fd7a.js.map",
     "732.7eea6fe0.chunk.css.map": "/gilanis/static/css/732.7eea6fe0.chunk.css.map",
     "732.30548e44.chunk.js.map": "/gilanis/static/js/732.30548e44.chunk.js.map",
     "17.0554ec58.chunk.css.map": "/gilanis/static/css/17.0554ec58.chunk.css.map",
     "17.e104bc59.chunk.js.map": "/gilanis/static/js/17.e104bc59.chunk.js.map",
     "216.9f79535e.chunk.css.map": "/gilanis/static/css/216.9f79535e.chunk.css.map",
-    "216.90414ce8.chunk.js.map": "/gilanis/static/js/216.90414ce8.chunk.js.map",
+    "216.ba2afeea.chunk.js.map": "/gilanis/static/js/216.ba2afeea.chunk.js.map",
     "789.e2beae76.chunk.css.map": "/gilanis/static/css/789.e2beae76.chunk.css.map",
     "789.56965b84.chunk.js.map": "/gilanis/static/js/789.56965b84.chunk.js.map",
     "787.dc325998.chunk.css.map": "/gilanis/static/css/787.dc325998.chunk.css.map",
@@ -78,6 +78,6 @@
   },
   "entrypoints": [
     "static/css/main.07ce280e.css",
-    "static/js/main.b72f8278.js"
+    "static/js/main.1a57fd7a.js"
   ]
 }
